@@ -99,8 +99,12 @@ regras abaixo.
    🌐 www.padraosanto.com
 7. Até 5 hashtags na última linha, começando por #padraosanto.
 
-Colocar no texto as palavras que as pessoas pesquisam (ex.: "fachada em
-Porto Alegre", "adesivo de vitrine", "banner para evento").
+Colocar no texto as palavras que as pessoas pesquisam (ex.: "adesivo de
+vitrine", "banner para evento", "placa em ABS escovado").
+
+**Cidade:** citar Porto Alegre no máximo uma vez por post (de preferência só
+na hashtag #portoalegre). O foco do post é a comunicação visual, os brindes e
+o trabalho da Padrão Santo, não a localização.
 
 ## 5. Foco do conteúdo
 
