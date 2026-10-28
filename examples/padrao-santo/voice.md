@@ -57,6 +57,8 @@ regras abaixo.
 - Imperativo correto: "Chame no WhatsApp e peça o seu orçamento".
 - Deixar claro o que o post pede ao cliente: definir, escolher ou fazer.
 - O chamado final tem que se entender sozinho.
+- Falar sempre direto com o cliente, em segunda pessoa ("você", "seu"),
+  e nunca em terceira ("o cliente", "dele").
 - Nunca inventar números, prazos ou preços. Se faltar uma prova, usar uma cena
   ou foto real.
 - Não mostrar material de cliente nem citar marca de cliente sem autorização.
