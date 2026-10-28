@@ -29,8 +29,10 @@ regras abaixo.
   criação de arte nos posts. Usar "com a sua arte" ou "com a arte que você ou
   a sua agência enviar". Se o assunto surgir, dizer que a arte pode ser
   combinada no atendimento.
-- **Instalação:** acontece só em alguns trabalhos. Não prometer instalação nos
-  posts. No máximo: "consulte a instalação no atendimento".
+- **Instalação:** na grande maioria dos pedidos a Padrão Santo não aplica o
+  adesivo; a aplicação fica com o cliente ou o instalador dele. Não prometer
+  instalação nos posts. No máximo: "consulte a instalação no atendimento".
+- **Arquivo de arte:** o formato preferido é PDF vetorizado.
 - **Público:**
   1. Donos de comércio, lojas, restaurantes, clínicas e escritórios que
      precisam de fachada, placa, adesivo e banner.
